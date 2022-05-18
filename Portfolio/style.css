@@ -1,0 +1,39 @@
+/* .hero{
+    margin-left: 0.8em;
+} */
+
+.rounded-circle{
+    box-shadow: 5px 5px 25px 5px rgb(13, 114, 128);
+    box-sizing: 0.5em;
+    width: 80%;
+    height: 80%;
+}
+
+.fa-html5{
+    color: #f4470b;
+}
+
+.fa-bootstrap{
+    color: #730fef;
+}
+.CSS{
+    margin-right: 1em;
+    margin-left: 2.5em;
+}
+
+.HTML{
+    margin-right: 0em;
+    margin-left: 1.2em;
+}
+
+.fa-linkedin{
+    color: #0077b5;
+}
+
+.fa-instagram{
+    color: #8a3ab9;
+}
+
+.fa-twitter{
+    color: #1DA1F2;
+}
